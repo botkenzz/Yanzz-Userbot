@@ -6,7 +6,7 @@
 # <https://github.com/TeamUltroid/pyUltroid/blob/main/LICENSE>.
 #
 # Ported by @AyiinXd
-# FROM Ayiin-Userbot <https://github.com/AyiinXd/Ayiin-Userbot>
+# FROM Ayiin-Userbot <https://github.com/botkenzz/Yanzz-Userbot>
 # t.me/AyiinXdSupport & t.me/AyiinSupport
 
 import os
